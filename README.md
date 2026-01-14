@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Dominik
 
 ## 🚀 About Me
-I'm a Computer Science student at **Warsaw University of Technology**, currently in my **4th semester**. Passionate about **Artificial Intelligence, System Designs, and Software Engineering**.
+I'm a Computer Science student at **Warsaw University of Technology**, currently in my **5th semester**. Passionate about **Artificial Intelligence, System Designs, and Software Engineering**.
 
 ## 🔧 Skills & Technologies
 - **Programming Languages**: C++, C, Python, Java, SQL, Assembly (RISC-V, x86), PL/SQL
